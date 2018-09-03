@@ -2,7 +2,7 @@
 
   "url":"https://raw.githubusercontent.com/sushine1995/MajiangSet/master/app-PhoneSet-090301_1414_jiagu_sign.apk",
 
-  "versionCode":16,
+  "versionCode":17,
 
-  "updateMessage":"新版本:1.4.13:<br/>[1]烧录方式<br/>[2]修改起牌备份信息<br/>[3]修复更新时创建目录失败的问题<br/>[3]可能需要卸载旧版本才能完成更新"
+  "updateMessage":"新版本:1.4.14:<br/>[1]烧录方式<br/>[2]修改起牌备份信息<br/>[3]修复更新时创建目录失败的问题，修正保存目录的路径<br/>[4]可能需要卸载旧版本才能完成更新"
 }
